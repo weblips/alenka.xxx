@@ -1,0 +1,46 @@
+public/.htaccess
+/.htaccess
+# Config and Htaccess Files
+public/config.php
+public/admin/config.php
+
+public/adminer.php
+
+# Image Cache Files
+public/image/*
+public/image/cache/*
+!public/image/cache/index.html
+
+# System Cache Files
+system/storage/cache/*
+!system/storage/cache/index.html
+
+# Modification Files
+system/storage/modification/*
+!system/storage/modification/index.html
+
+
+# Download Files
+system/storage/download/*
+!system/storage/download/index.html
+
+# Upload Files
+system/storage/upload/*
+!system/storage/upload/index.html
+
+# Log Files
+system/storage/logs/*
+!system/storage/logs/index.html
+
+install/*
+
+# txt close
+*.txt
+/*.txt
+
+# IDE Project files
+.projectKnowledge
+nbproject
+
+# robots
+public/robots.txt
