@@ -12,25 +12,25 @@ public/image/cache/*
 !public/image/cache/index.html
 
 # System Cache Files
-system/storage/cache/*
-!system/storage/cache/index.html
+storage/cache/*
+!storage/cache/index.html
 
 # Modification Files
-system/storage/modification/*
-!system/storage/modification/index.html
+storage/modification/*
+!storage/modification/index.html
 my_module/*
 
 # Download Files
-system/storage/download/*
-!system/storage/download/index.html
+storage/download/*
+!storage/download/index.html
 
 # Upload Files
-system/storage/upload/*
-!system/storage/upload/index.html
+storage/upload/*
+!storage/upload/index.html
 
 # Log Files
-system/storage/logs/*
-!system/storage/logs/index.html
+storage/logs/*
+!storage/logs/index.html
 
 install/*
 
