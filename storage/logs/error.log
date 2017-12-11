@@ -281,3 +281,5 @@
 2017-12-11 8:32:54 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\startup\session.php on line 25
 2017-12-11 9:15:31 - PHP Warning:  PDO::__construct(): MySQL server has gone away in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\db\mpdo.php on line 9
 2017-12-11 9:15:32 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
+2017-12-11 9:34:53 - PHP Warning:  PDO::__construct(): MySQL server has gone away in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\db\mpdo.php on line 9
+2017-12-11 9:34:54 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
