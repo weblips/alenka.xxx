@@ -79,9 +79,11 @@ div.required .control-label:before {
 	background-repeat: repeat-x;
 }
 /* top */
-
+.container{
+    width: auto;
+}
 #top .container {
-	padding: 0 20px;
+	padding: 0 10px;
 }
 #top #form-currency .currency-select,
 #top #form-language .language-select {
