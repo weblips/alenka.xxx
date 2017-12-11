@@ -283,3 +283,216 @@
 2017-12-11 9:15:32 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
 2017-12-11 9:34:53 - PHP Warning:  PDO::__construct(): MySQL server has gone away in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\db\mpdo.php on line 9
 2017-12-11 9:34:54 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
+2017-12-11 9:51:23 - PHP Warning:  PDO::__construct(): MySQL server has gone away in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\db\mpdo.php on line 9
+2017-12-11 9:51:24 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
+2017-12-11 10:12:32 - PHP Warning:  PDO::__construct(): MySQL server has gone away in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\db\mpdo.php on line 9
+2017-12-11 10:12:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
+2017-12-11 10:12:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\startup\session.php on line 25
+2017-12-11 10:14:23 - PHP Notice:  Undefined index: statistic in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 557
+2017-12-11 10:14:23 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:14:37 - PHP Warning:  PDO::__construct(): MySQL server has gone away in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\db\mpdo.php on line 9
+2017-12-11 10:14:38 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
+2017-12-11 10:14:38 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\startup\session.php on line 25
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: shipping_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:18:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\address.php on line 57
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\address.php on line 57
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\shipping_address.php on line 180
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 133
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 137
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 165
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 165
+2017-12-11 10:18:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 169
+2017-12-11 10:18:09 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 177
+2017-12-11 10:18:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 180
+2017-12-11 10:18:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 182
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\shipping_method.php on line 112
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 74
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: total in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 74
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 87
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: email in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 235
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 237
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 238
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 239
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 240
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 241
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 242
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 243
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 244
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 245
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 246
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 247
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 248
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: comment in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 360
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: order_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 424
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: order_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 425
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: customer_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 126
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: customer_group_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 127
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: firstname in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 128
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: lastname in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 129
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: telephone in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 131
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: fax in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 132
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 244
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 244
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 246
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: statistic in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 557
+2017-12-11 10:18:09 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:18:18 - PHP Warning:  unlink(C:/flc/OpenServer/domains/alenka.xxx/storage/cache/cache.catalog.language.1512991089): No such file or directory in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\cache\file.php on line 68
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: shipping_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:18:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\address.php on line 57
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\address.php on line 57
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\shipping_address.php on line 180
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 133
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 137
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 165
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 165
+2017-12-11 10:18:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 169
+2017-12-11 10:18:50 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 177
+2017-12-11 10:18:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 180
+2017-12-11 10:18:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 182
+2017-12-11 10:18:50 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\shipping_method.php on line 112
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 74
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: total in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 74
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 87
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: email in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 235
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 237
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 238
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 239
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 240
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 241
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 242
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 243
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 244
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 245
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 246
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 247
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 248
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: comment in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 360
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: order_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 424
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: order_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 425
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: customer_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 126
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: customer_group_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 127
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: firstname in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 128
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: lastname in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 129
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: telephone in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 131
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: fax in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 132
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 244
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 244
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 246
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: statistic in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 557
+2017-12-11 10:18:51 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:19:43 - PHP Notice:  Undefined index: statistic in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 557
+2017-12-11 10:19:43 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:19:53 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:20:00 - PHP Warning:  PDO::__construct(): MySQL server has gone away in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\db\mpdo.php on line 9
+2017-12-11 10:20:01 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
+2017-12-11 10:20:01 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\startup\session.php on line 25
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_address.php on line 160
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_address.php on line 184
+2017-12-11 10:22:07 - PHP Warning:  array_merge(): Argument #1 is not an array in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_address.php on line 184
+2017-12-11 10:22:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: guest in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_address.php on line 216
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: guest in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_address.php on line 217
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: guest in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_address.php on line 218
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: guest in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_address.php on line 219
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: guest in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_address.php on line 220
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: shipping_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:22:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\address.php on line 57
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\address.php on line 57
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\shipping_method.php on line 112
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: total in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 74
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 87
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 133
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 137
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 165
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 165
+2017-12-11 10:22:07 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 169
+2017-12-11 10:22:07 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 177
+2017-12-11 10:22:07 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 180
+2017-12-11 10:22:07 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 182
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: comment in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 360
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: order_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 424
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: order_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 425
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 244
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 244
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 246
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: statistic in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 557
+2017-12-11 10:22:07 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:22:17 - PHP Notice:  Undefined index: confirm in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 46
+2017-12-11 10:22:17 - PHP Warning:  array_merge(): Argument #1 is not an array in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 46
+2017-12-11 10:22:17 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:22:17 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:22:17 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: shipping_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:22:58 - PHP Warning:  Invalid argument supplied for foreach() in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\custom_field.php on line 71
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\address.php on line 57
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\address.php on line 57
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\shipping_address.php on line 180
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 133
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 137
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 165
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\cart.php on line 165
+2017-12-11 10:22:58 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 169
+2017-12-11 10:22:58 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 177
+2017-12-11 10:22:58 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 180
+2017-12-11 10:22:58 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\image.php on line 182
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\shipping_method.php on line 112
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 74
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: total in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 74
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\payment_method.php on line 87
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 44
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 48
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: email in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 235
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 237
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 238
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 239
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 240
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 241
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 242
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 243
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 244
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 245
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 246
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 247
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: payment_address in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 248
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: comment in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 360
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: order_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 424
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: order_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\extension\d_quickcheckout\confirm.php on line 425
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: customer_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 126
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: customer_group_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 127
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: firstname in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 128
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: lastname in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 129
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: telephone in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 131
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: fax in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\order.php on line 132
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 244
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: d_quickcheckout in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 244
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: account in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\d_quickcheckout\method.php on line 246
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: statistic in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 557
+2017-12-11 10:22:58 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:24:28 - PHP Warning:  PDO::__construct(): MySQL server has gone away in C:\flc\OpenServer\domains\alenka.xxx\public\system\library\db\mpdo.php on line 9
+2017-12-11 10:24:29 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php on line 108
+2017-12-11 10:24:29 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\flc\OpenServer\domains\alenka.xxx\public\system\framework.php:42) in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\controller\startup\session.php on line 25
+2017-12-11 10:24:29 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
+2017-12-11 10:24:35 - PHP Notice:  Undefined index: statistic_id in C:\flc\OpenServer\domains\alenka.xxx\public\catalog\model\extension\module\d_quickcheckout.php on line 558
